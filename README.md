@@ -3,7 +3,7 @@ Fatema Buhuligah
 
 <img src="2.png" alt="Tours & Attractions in Travel">
 
-<p><b> 1. Introduction**  </b></p>
+<p><b> 1. Introduction </b></p>
 <p>Tours & Attractions in Travel project, is a project for Data Scienc course. The purpose of this project is to build a web app that finds the most suitable tours, attractions and activities in your next trip. Based on the travel destination, the budget (per adult/gruop), the type of the tour or attraction.</p>
 
 <p><b> 2. The Data </b></p>
