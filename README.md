@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  <img src="2.png" alt="Tours & Attractions in Travel">
  <h2 align="center">Tours in Travel Analysis</h2>
  <p>Tours in Travel project, is a project for Data Scienc course.</p>
@@ -27,7 +27,7 @@
  </p>
 </div>
  <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
@@ -35,7 +35,6 @@
     <li><a href="#exploratory-data-analysis">Contributors</a></li>
     <li><a href="#References">References</a></li>
   </ol>
-</details>
 
 ## About The Project
 The dataset contains information about tours collected from **tripadvisor.com**. 
@@ -57,19 +56,19 @@ Each row represents a Tour with a Link to the agency that provide the tour in tr
 
 ## Exploratory Data Analysis
 Data columns (total 11 columns):
- #   Column          Non-Null Count  Dtype  
----  ------          --------------  -----  
- 0   Tour            10524 non-null  object 
- 1   Type            10524 non-null  object 
- 2   Duration        10524 non-null  float32
- 3   Price           10524 non-null  float32
- 4   Price Per       10524 non-null  object 
- 5   Cancellation    10524 non-null  object 
- 6   Tour By         10524 non-null  object 
- 7   City            10524 non-null  object 
- 8   Country         10524 non-null  object 
- 9   Image           10524 non-null  object 
- 10  Link to agency  10524 non-null  object 
+| #  | Column          | Non-Null Count  | Dtype   | 
+|--- | ------          | --------------  | -----   |
+| 0  | Tour            | 10524 non-null  | object  |
+| 1  | Type            | 10524 non-null  | object  |
+| 2  | Duration        | 10524 non-null  | float32 |
+| 3  | Price           | 10524 non-null  | float32 |
+| 4  | Price Per       | 10524 non-null  | object  |
+| 5  | Cancellation    | 10524 non-null  | object  |
+| 6  | Tour By         | 10524 non-null  | object  |
+| 7  | City            | 10524 non-null  | object  |
+| 8  | Country         | 10524 non-null  | object  |
+| 9  | Image           | 10524 non-null  | object  |
+| 10 | Link to agency  | 10524 non-null  | object  |
 
  10524 entries
 
