@@ -4,8 +4,8 @@
  <p>Tours in Travel project, is a project for Data Scienc course.</p>
  <p>This project is aimed to answer these questions:
     <ol>
-    <li> How does the tour type relates to the tour duration?</li>
-    <li> How does the price per adult for the same tour type changes around the world?</li>
+    <li> How long most tours are? What is the average tour price for that?</li>
+    <li> Compare the tours average price of different countries.</li>
     </ol>
  </p>
     <br/>
@@ -88,5 +88,7 @@ Data columns (total 11 columns):
 * [Replace nan with the same value of another column](https://stackoverflow.com/questions/29177498/python-pandas-replace-nan-in-one-column-with-value-from-corresponding-row-of-sec)
 * [Pandas conditional multiplication](https://stackoverflow.com/questions/34803670/pandas-conditional-multiplication)
 * [How to Change Font Size in Seaborn Plots (With Examples)](https://www.statology.org/seaborn-font-size/)
+* [pandas create new column based on values from other columns](https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-values-from-other-columns-apply-a-function-o)
+* [Creating Interactive Maps with Python](https://www.youtube.com/watch?v=FdqDgoG-SFM&ab_channel=Auth0)
 * [canva](https://www.canva.com/)
 <p align="right">(<a href="#top">back to top</a>)</p>
